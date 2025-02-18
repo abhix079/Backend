@@ -1,0 +1,21 @@
+Routing defines the way in which the client request are handled by the application endpoints
+
+we can make our application respond to different url with different responses usinf Routing
+
+Routing basically means implementinf different actions  for different urls
+
+These actions  can be implemented in different way   for example by creating a function
+
+1> File based url
+   www.google.com/index.html   (index.html is file)
+
+
+2> Resource based url
+     www.google.com/home   (home is resource)
+
+3> Route parameter
+      www.google.com/home/101  (101 is id and it is parameter)
+
+4>  Query Strings
+     
+      www.google.com/Books?author=john&id=101 (after ? all are query Strings)
