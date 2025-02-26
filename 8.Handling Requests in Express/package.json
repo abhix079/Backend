@@ -1,0 +1,15 @@
+{
+  "name": "8.handling-requests-in-express",
+  "version": "1.0.0",
+  "description": "Handling requests",
+  "license": "ISC",
+  "author": "Abhishek",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
