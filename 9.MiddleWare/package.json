@@ -1,0 +1,16 @@
+{
+  "name": "9.middleware",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Abhishek",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  }
+}
