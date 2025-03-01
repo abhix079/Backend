@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Abhishek",
+        "gender":"Male",
+        "age":22,
+        "IsMaried":false,
+        "address":{
+            "city":"Gorakhpur",
+            "state":"Uttar Pradesh"
+        },
+        "order":[
+            {"productId":12345, "name":"Iphone 10"},
+            {"productId":32445, "name":"Laptop"}
+        ]
+    },
+
+    {
+        "name":"Ankit",  
+        "gender":"Male",
+        "age":22,
+        "IsMaried":false,
+        "address":{
+            "city":"Salempur",
+            "state":"Uttar Pradesh"
+        },
+        "order":[
+            {"productId":47383, "name":"Iphone 16"},
+            {"productId":98843, "name":"Washing Machine"}
+        ]
+    }
+
+]
